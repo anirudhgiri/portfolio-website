@@ -193,3 +193,27 @@ ul {
     color: black;
     background-color: white;
   }
+
+  li a.redirlink{
+    padding: 0px 0px;
+    color: #7A7C80;
+    
+  }
+
+  .media{
+      margin-top: 20px;
+      border-bottom: white ridge thin;
+      padding-bottom: 5px;
+  }
+
+  .nav{
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    background: rgba(51,51,51,1);
+    color: rgba(51,51,51,1);;
+  }
+
+  .section-contact{
+    padding-top: 10vh;
+}
